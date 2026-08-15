@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-xpmx0p.pulaucuanwin.sbs/sitemap.xml
